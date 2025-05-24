@@ -19,10 +19,10 @@ A secure, encrypted messaging system using Python sockets and AES (CBC mode) enc
 ## 📸 Output Screenshots
 
 ### Server Running
-![Server Screenshot](images/server screenshot.png)
+![Server Screenshot](images/server%20screenshot.png)
 
 ### Client 1 & 2
-![Client 1 Screenshot](images/clients screenshots.png)
+![Clients Screenshot](images/clients%20screenshot.png)
 
 
 *Make sure to place these images inside a `/images` folder.*
