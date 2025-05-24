@@ -27,6 +27,5 @@ A secure, encrypted messaging system using Python sockets and AES (CBC mode) enc
 *Make sure to place these images inside a `/images` folder.*
 
 ## 📘 Final Note
-
 This project was developed to demonstrate real-time encrypted messaging using Python and AES encryption.
 
