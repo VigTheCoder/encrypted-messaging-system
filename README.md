@@ -22,7 +22,7 @@ A secure, encrypted messaging system using Python sockets and AES (CBC mode) enc
 ![Server Screenshot](images/server%20screenshot.png)
 
 ### Client 1 & 2
-![Clients Screenshot](images/clients%20screenshot.png)
+![Clients Screenshot](images/clients%20screenshots.png)
 
 
 *Make sure to place these images inside a `/images` folder.*
