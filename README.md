@@ -18,11 +18,15 @@ A secure, encrypted messaging system using Python sockets and AES (CBC mode) enc
 
 ## 📸 Output Screenshots
 
-### Server Running
-![Server Screenshot](images/server%20screenshot.png)
-
 ### Client 1 & 2
 ![Clients Screenshot](images/clients%20screenshots.png)
 
+### Server Running
+![Server Screenshot](images/server%20screenshot.png)
 
 *Make sure to place these images inside a `/images` folder.*
+
+## 📘 Final Note
+
+This project was developed to demonstrate real-time encrypted messaging using Python and AES encryption.
+
